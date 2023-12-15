@@ -4,4 +4,4 @@ var stClass = "BCA 2"
 stCity = "Sardarshahar"
 let stState 
 
-console.table([stId, stName, stClass, stCity, stState])
+console.table([stId, stName, stClass, stCity, stState]);
